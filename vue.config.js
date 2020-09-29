@@ -1,5 +1,7 @@
 module.exports = {
     "lintOnSave": false,
+    "filenameHashing": false,
+    "productionSourceMap": false,
     "pages": {
         "popup": {
             "template": "public/browser-extension.html",

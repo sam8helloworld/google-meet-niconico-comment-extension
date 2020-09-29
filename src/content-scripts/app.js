@@ -33,15 +33,17 @@ async function init() {
 </div>`
     );
     new Vue({
+        el: "#nico-comment-form",
         vuetify,
         store,
         render: h => h(CommentForm)
-    }).$mount('#nico-comment-form');
+    });
     new Vue({
+        el: "#google-meet-nico-extension",
         vuetify,
         store,
         render: h => h(CommentCanvas)
-    }).$mount('#google-meet-nico-extension');
+    });
 }
 
 
