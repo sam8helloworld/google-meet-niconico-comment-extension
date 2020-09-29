@@ -1,15 +1,19 @@
 <template>
   <v-app>
-    <hello-world />
+    <h1>エキサイトーク用Chrome拡張</h1>
+    <p>
+      Google Meetのチャットをニコニコ動画のコメントのように画面に流します。
+    </p>
+    <p>
+      Meetの画面に遷移すると自動的にチャット欄がカスタマイズされて表示されます。
+    </p>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'App',
-  components: { HelloWorld }
 }
 </script>
 
