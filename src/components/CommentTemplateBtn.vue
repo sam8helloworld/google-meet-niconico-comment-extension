@@ -28,16 +28,20 @@ export default {
           value: "草"
         },
         {
-          label: "生産性",
-          value: "生産性"
+          label: "待ってました！",
+          value: "待ってました！"
+        },
+        {
+          label: "わかる",
+          value: "わかる"
         },
         {
           label: "おつ",
           value: "おつ"
         },
         {
-          label: "あっ",
-          value: "あっ"
+          label: "あっ.....",
+          value: "あっ....."
         },
         {
           label: "そマ？",
@@ -45,7 +49,7 @@ export default {
         },
         {
           label: "ドドドド",
-          value: "┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨ ┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨ ┣¨┣¨┣¨"
+          value: "┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨ ┣¨┣¨┣¨┣¨"
         },
         {
           label: "キター",
@@ -54,6 +58,10 @@ export default {
         {
           label: "ぴえん",
           value: "🥺"
+        },
+        {
+          label: "スパチャ",
+          value: "スパチャ ¥11,000"
         },
         {
           label: "現場ネコ",
